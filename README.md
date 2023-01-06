@@ -1,3 +1,5 @@
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1609773218044137472.svg)](https://www.murphysec.com/accept?code=9f8c8de6878f5c6aa78424727031adbc&type=1&from=2&t=2)
+
 # EasyScan
 ## 写在前面
 
@@ -22,3 +24,4 @@ ManyPings.py;Success_Traceroute.py;Topological_graph.py 实现多 IP 单功能
 ### 2. 多 IP 单功能
 
 ping 网段探测存活
+
